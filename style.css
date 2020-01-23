@@ -1,0 +1,10 @@
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
+#add-account-view {
+  display: none;
+}
+#edit-account-view {
+  display: none;
+}
